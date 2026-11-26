@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-shortvideo-publish-kit)
+
 **English**: Multi-platform publishing copy kit for short videos — one piece of content rewritten for three platforms (fast-paced hooks / WeChat Channels / Xiaohongshu notes), a three-layer hashtag strategy, posting-time guidance, and a pre-publish compliance checklist with risky-word replacements.
 
 ---
